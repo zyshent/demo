@@ -1,1 +1,15 @@
 hello 问问
+
+
+git diff 文件
+查看文件修改的内容
+git log
+查看提交的历史记录
+git log --pretty=oneline
+查看提交的历史纪录 （简易版）
+cat 文件
+查看文件的内容
+git rm 
+同时从工作区和索引中删除文件
+git rm --cached
+从索引中删除文件。但是本地的文件还在，只是不希望这个文件被版本控制
